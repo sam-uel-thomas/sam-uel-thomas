@@ -1,6 +1,8 @@
-![Untitled design (1)](https://github.com/sam-uel-thomas/sam-uel-thomas/assets/62969375/cd757ec8-8765-467d-9106-2ac419c4ec15)
+![Untitled design (2)](https://github.com/sam-uel-thomas/sam-uel-thomas/assets/62969375/7ef82b5c-2503-43c4-879d-c236c1957415)
 
-
+- 🔭 I’m currently working on building a personal website and tackling Leetcode challenges.
+- ⚡ Known Languages: Java, C++, C#, Python, HTML, CSS, JS
+- 📫 You can reach me at samuel.mmthomas@gmail.com.
 <!--
 **sam-uel-thomas/sam-uel-thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
