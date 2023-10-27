@@ -1,5 +1,4 @@
-![Untitled design (2)](https://github.com/sam-uel-thomas/sam-uel-thomas/assets/62969375/7ef82b5c-2503-43c4-879d-c236c1957415)
-
+![Untitled design (3)](https://github.com/sam-uel-thomas/sam-uel-thomas/assets/62969375/613c1261-c84e-4f82-8ed1-76981e65f2fc)
 - 🔭 I’m currently working on building a personal website and tackling Leetcode challenges.
 - ⚡ Known Languages: Java, C++, C#, Python, HTML, CSS, JS
 - 📫 You can reach me at samuel.mmthomas@gmail.com.
