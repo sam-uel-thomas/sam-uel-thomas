@@ -1,4 +1,5 @@
-### Hi there 👋
+![Sam Thomas](https://github.com/sam-uel-thomas/sam-uel-thomas/assets/62969375/4f561ae2-ba0e-4f03-b438-62779cfbfd4f)
+
 
 <!--
 **sam-uel-thomas/sam-uel-thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
