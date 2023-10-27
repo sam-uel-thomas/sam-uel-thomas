@@ -1,4 +1,4 @@
-![Sam Thomas](https://github.com/sam-uel-thomas/sam-uel-thomas/assets/62969375/4f561ae2-ba0e-4f03-b438-62779cfbfd4f)
+![Untitled design (1)](https://github.com/sam-uel-thomas/sam-uel-thomas/assets/62969375/cd757ec8-8765-467d-9106-2ac419c4ec15)
 
 
 <!--
