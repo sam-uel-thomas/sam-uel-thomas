@@ -1,6 +1,6 @@
 ![Untitled design (3)](https://github.com/sam-uel-thomas/sam-uel-thomas/assets/62969375/613c1261-c84e-4f82-8ed1-76981e65f2fc)
 - 🔭 I’m currently working on building a personal website and tackling Leetcode challenges.
-- ⚡ Known Languages: React, NextJS, Tailwind, Java, C++, C#, Python, HTML, CSS, JS
+- ⚡ Known Languages: React, NextJS, Tailwind, Java, C++, C#, Python, HTML, CSS, JS, Scala
 - 📫 You can reach me at samuel.mmthomas@gmail.com.
 <!--
 **sam-uel-thomas/sam-uel-thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
