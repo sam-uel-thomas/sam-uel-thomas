@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#f9f8f6" opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="#1a1a18"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+
+  <line x1="60" y1="72" x2="700" y2="72" stroke="#f9f8f6" stroke-width="2"/>
+  <line x1="60" y1="228" x2="700" y2="228" stroke="#f9f8f6" stroke-width="2"/>
+
+  <text x="80" y="130" font-family="Helvetica Neue, Arial, sans-serif" font-size="40" font-weight="600" fill="#f9f8f6">Sam Thomas</text>
+  <text x="80" y="172" font-family="Helvetica Neue, Arial, sans-serif" font-size="21" fill="#f9f8f6" fill-opacity="0.85">BSc Computer Science with AI, First-Class Honours</text>
+  <text x="80" y="203" font-family="Helvetica Neue, Arial, sans-serif" font-size="21" fill="#f9f8f6" fill-opacity="0.85">King's College London</text>
+</svg>
