@@ -1,12 +1,12 @@
-![Untitled design (3)](https://github.com/sam-uel-thomas/sam-uel-thomas/assets/62969375/613c1261-c84e-4f82-8ed1-76981e65f2fc)
+<img alt="Sam Thomas — BSc Computer Science with AI, First-Class Honours, King's College London" src="https://github.com/user-attachments/assets/e298b62d-1f50-4ef0-b51b-d11c574ce7d7" width="100%">
 
-Freelance full stack web developer based in London.
+### Freelance full stack web developer based in London.
 
-Website: [madebysamthomas.com](https://madebysamthomas.com)
-Email: hello@madebysamthomas.com
+🌐 [madebysamthomas.com](https://madebysamthomas.com)  
+📧 [hello@madebysamthomas.com](mailto:hello@madebysamthomas.com)
 
 ## Stack
 
 Next.js, React, Tailwind, TypeScript/JavaScript, Node.js, Java, C#, Python, Scala, C++
 
-Open to freelance full stack work — get in touch by email.
+Get in touch for freelance work.
