@@ -23,7 +23,7 @@ A live ordering platform for a print studio. Stabilised it and sped it up.
 **Backend & data:** PostgreSQL · Drizzle · Supabase · Stripe · Payload / Sanity · Resend  
 **Testing & tooling:** Vitest · Vercel · Figma  
 **Motion:** GSAP · Framer Motion  
-**Also:** Swift · Python · C · Java
+**Also:** Swift · Python · Java
 
 ---
 
