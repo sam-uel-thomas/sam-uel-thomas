@@ -9,13 +9,14 @@ I'm a software engineer in London, focused on building clean, well-designed syst
 
 ## Recent work
 
-**[PRNTRS](https://madebysamthomas.com/work/prntrs)** · Software Engineer (contract) · 2026–present  
+**[PRNTRS](https://prntrs.co/)** · Software Engineer (contract)  
+A platform for running a print studio online. Helped take it from a stalled project to production.
 
-**[Pollan](https://pollan.co/)** · Full Stack Developer (contract) · 2026–present  
-Booking system and Google Calendar sync for a payments platform. Cut page load times by roughly 80%.
+**[Pollan](https://pollan.co/)** · Full Stack Developer (contract)  
+A payments platform where businesses take bookings through a shareable link. Built its booking system and Google Calendar sync.
 
-**[PrintDays](https://printdays.co.uk/)** · Full Stack Developer (contract) · 2025–present  
-Stabilised a live ordering platform: fixed artwork DPI and colour handling, and an ordering flow that lost selections between pages.
+**[PrintDays](https://printdays.co.uk/)** · Full Stack Developer (contract)  
+A live ordering platform for a print studio. Stabilised it and sped it up.
 
 ## Stack
 **Core:** TypeScript · React · Next.js · Node.js · Tailwind  
