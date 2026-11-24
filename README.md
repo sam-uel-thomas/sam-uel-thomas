@@ -1,4 +1,7 @@
-<img alt="Sam Thomas — BSc Computer Science with AI, First-Class Honours, King's College London" src="https://github.com/user-attachments/assets/e298b62d-1f50-4ef0-b51b-d11c574ce7d7" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <img alt="Sam Thomas — Software Engineer, London. I design and build web apps, online shops, SaaS platforms, dashboards and storefronts." src="./banner-light.svg" width="100%">
+</picture>
 
 ### Software engineer in London · First Class BSc Computer Science with AI, King's College London
 
